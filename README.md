@@ -97,7 +97,7 @@ If no issues are found:
 
 ## Author
 
-Nahuel [@nahueldotdev](https://github.com/nahueldotdev)
+Nahuel [@nvxn](https://github.com/nvxn)
 
 ---
 
